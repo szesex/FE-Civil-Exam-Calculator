@@ -1,4 +1,5 @@
-The FE-Civil-Exam-Calculator formula and data base on fe-handbook-10-4 
+The FE-Civil-Exam-Calculator formula and data base on 
+NCEES publishes 10-4 version of FE Reference Handbook fe-handbook 
 
 And using Python A highly sophisticated GPT tailored for Python programmers. Optimized for GPT-4o. ：Nicholas Barker https://chatgpt.com/g/g-cKXjWStaE-python
 

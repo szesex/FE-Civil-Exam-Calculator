@@ -1,30 +1,22 @@
 
+## FE-Civil-Exam-Calculator
 
-# FE-Civil-Exam-Calculator
+This open-source calculator was created by a senior Civil Engineering student at The University of Texas at Tyler, who is also a 2024 FE Exam candidate. It is designed to help engineering students and professionals dive deep into engineering concepts while simultaneously honing their Python programming skills. 
 
-This calculator is developed by Kang Sze, a senior Civil Engineering student at The University of Texas at Tyler, to aid in the deep study of engineering and coding in preparation for the FE Civil Exam.
+The project welcomes contributions and suggestions from the community, and it is integrated with a Telegram bot for easy access and usage.
 
-## Description
+### Key Features:
+- **FE-Civil Exam Focus**: The calculator is tailored specifically for the FE Civil Exam, based on the latest NCEES FE Reference Handbook (10.4 version).
+- **Python-Powered**: Developed using Python, with a focus on utilizing advanced GPT models optimized for Python developers, like the GPT-4o by Nicholas Barker.
+- **Open Source**: Contributions and edits are welcome from everyone in the community. 
 
-The FE-Civil-Exam-Calculator is an open-source tool designed for individuals preparing for the FE Civil Exam. It incorporates formulas and data based on the NCEES FE Reference Handbook, 10-4 version.
+### Resources:
+- **FE Handbook (10.4 Version)**: The calculator’s formulas and data are directly based on this handbook. [View FE Handbook 10.4](https://github.com/user-attachments/files/16741679/fe-handbook-10-4.pdf)
+- **FE Civil Exam Specifications**: [Download the FE Civil CBT Specifications](https://ncees.org/wp-content/uploads/2022/09/FE-Civil-CBT-specs-1.pdf)
 
-This project utilizes Python and is tailored for advanced Python programmers, optimized for GPT-4o. For more details, you can refer to [Nicholas Barker's GPT-4o](https://chatgpt.com/g/g-cKXjWStaE-python).
+### Telegram Channel:
+Join the discussion and share resources on our Telegram channel: [FE Exam Civil Engineering Self-Study](https://t.me/civilengineeringfeexamselfstudy)
 
-## Resources
-
-- [FE Reference Handbook 10-4 (PDF)](https://github.com/user-attachments/files/16741679/fe-handbook-10-4.pdf)
-- [FE Civil CBT Specifications](https://ncees.org/wp-content/uploads/2022/09/FE-Civil-CBT-specs-1.pdf)
-
-## Community
-
-Feel free to join the community and contribute to the project:
-
-- [TG Free Source Share](https://t.me/civilengineeringfeexamselfstudy)
-
-## Contributions
-
-Everyone is welcome to comment, edit, and contribute to the development of this tool. Your feedback is highly appreciated.
+**Author**: K.I Sze
 
 ---
-
-Kang Sze

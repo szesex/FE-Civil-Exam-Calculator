@@ -5,6 +5,9 @@ This open-source calculator was created by a senior Civil Engineering student at
 
 The project welcomes contributions and suggestions from the community, and it is integrated with a Telegram bot for easy access and usage.
 
+這個開源計算器是由德克薩斯大學泰勒分校土木工程學生創建的，他也是 2024 年 FE 考試的考生。它旨在幫助工程專業的學生和專業人士深入了解工程概念，同時磨練他的 Python 程式設計技能。
+該計畫歡迎貢獻和建議，並與 Telegram 機器人集成，以便於訪問和使用。
+
 ### Key Features:
 - **FE-Civil Exam Focus**: The calculator is tailored specifically for the FE Civil Exam, based on the latest NCEES FE Reference Handbook (10.4 version).
 - **Python-Powered**: Developed using Python, with a focus on utilizing advanced GPT models optimized for Python developers, like the GPT-4o by Nicholas Barker.
